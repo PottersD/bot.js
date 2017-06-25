@@ -92,7 +92,7 @@ function respond() {
       // ALL MEMBERS IN THE GROUP
       Connor	=	'30824774'; Elias	= '24488525'; White_Matt	=	'18341900';
       Caleb	=	  '31575032'; Dalvin	= '29824624'; David	= '18252184';
-      Kalan	=	  '30151684'; Nathan	= '12558120'; Robert	= '28758543';
+      Kalin	=	  '30151684'; Nathan	= '12558120'; Robert	= '28758543';
       Black_Matt	= '29879154'; Brittany	=	  '42281557'; Sara	= '29187291';
       Nick	=	  '29823868'; Jay	=	  '41361709'; Marco	=	  '38221747';
       Chad	= '24474608'; Tori	= '18922923'; Cayte	=	'43573131';
@@ -255,7 +255,7 @@ function respond() {
                       "Cool it, cowboy. ",
                       "Wait a minute please...",
                       "Give me a sec.",
-                      "lol nah dude",
+                      "lol nah ehhgit st",
                       "Not right now."];
           randomNumber = Math.floor(Math.random()*response.length);
           response = response[randomNumber];

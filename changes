@@ -1,0 +1,1478 @@
+[33mcommit 1c4e75ac67fe7acd6aa03a8e5521063c53884fc8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Mar 24 14:19:42 2017 -0400
+
+    Update bot.js
+
+[33mcommit a863349931e0c94248ec1b22db36f7018949322d[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Mar 24 14:04:09 2017 -0400
+
+    Update bot.js
+
+[33mcommit c04f84c824247883c09d779762ce83734bfc8cfb[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Mar 24 13:56:22 2017 -0400
+
+    Update bot.js
+    
+    Completely removes cleverbot
+
+[33mcommit 45eb415792b241a8e8b62ce20359943c286eb596[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Mar 16 21:26:47 2017 -0400
+
+    Update README.md
+
+[33mcommit 1f17c622e88d6b37fa2dc87b8e1bcad4b72df9c0[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Mar 16 21:25:46 2017 -0400
+
+    Update README.md
+
+[33mcommit 7594c2b5cbbf7195c2a7e942f66dd3f04ca2d638[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Mar 16 21:23:46 2017 -0400
+
+    Update README.md
+
+[33mcommit 2e9a5fe9a27adccff468503d5b759b24e2975701[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Wed Mar 8 18:36:10 2017 -0500
+
+    Temporarily removes CleverBot
+
+[33mcommit 4c613f41965ce1e2cb6645e01007fbb367004738[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Feb 18 23:00:14 2017 -0500
+
+    Some fixes
+
+[33mcommit 6ac12a78b4bf5223b8d7ad9e9f73c51e8f7214c6[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Jan 7 15:27:57 2017 -0500
+
+    null
+
+[33mcommit 7f93764eed40a7ffee1682badfc97ab7b3a89abf[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Jan 7 15:25:47 2017 -0500
+
+    Fix typo
+
+[33mcommit 77421572118c4d3ce941c7604d9cd069705908d0[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Jan 7 15:22:24 2017 -0500
+
+    Added @GSU and other stuff
+
+[33mcommit 66dbe2556225d15f9e83399fc7b20a95b6410e46[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Jan 5 19:15:33 2017 -0500
+
+    Added 'list memberss'
+
+[33mcommit 0dfba117388924ac5d707633001e89b951e1af20[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Jan 5 19:03:03 2017 -0500
+
+    Added 'list members'
+
+[33mcommit 1fbac4f36659060b6d515ba4852cf0a4f8a1024b[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Dec 9 13:05:08 2016 -0500
+
+    Added more responses
+
+[33mcommit c77a9b28c1d3edd1b1bf71cb851d54fb274d81dd[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Dec 9 12:04:54 2016 -0500
+
+    Remove Tori and Jay
+
+[33mcommit 7c2c8069e6b9c1621bdf4dfbf5d11a5182144e2d[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Nov 27 00:17:58 2016 -0500
+
+    Matt's not an engineer anymore
+
+[33mcommit fdb8108e1e473a720091d9e668c7b14879e9d7f5[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Nov 26 01:26:20 2016 -0500
+
+    No more wow son
+
+[33mcommit f7499450e77ee6818b09dcc8c07c630f08fcb335[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Nov 14 14:00:47 2016 -0500
+
+    User IDs
+
+[33mcommit 33d1200c9ba097850b43aa4fb7702adfb1e66054[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 16:20:19 2016 -0400
+
+    Final Deploy
+
+[33mcommit 1e41f580899a8ac49c930a7052464dbe5e41cf39[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 16:12:40 2016 -0400
+
+    Fix time
+
+[33mcommit a83681fd5e846517d9e509eb1f3714aac4a53a23[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 16:04:54 2016 -0400
+
+    Minute per cooldown
+
+[33mcommit 3d87c4c86e15bc97464d56da8323aacae298bcd9[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 15:57:37 2016 -0400
+
+    Back to normal:
+
+[33mcommit 4a502cfaf9865e90e4980938f5408e66d82f6ca3[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 15:55:47 2016 -0400
+
+    Info
+
+[33mcommit 778212a19cedaedbaae14d8bf3bccd5f49a94e0f[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 15:51:25 2016 -0400
+
+    initial time
+
+[33mcommit a66213d73b7a9c9a76932b976397d19490ab6861[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 15:46:45 2016 -0400
+
+    cooldown
+
+[33mcommit c5683217c2c5862a606b1b5d4381786538bc9089[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 14:39:16 2016 -0400
+
+    Fixed
+
+[33mcommit ee653d68fadcf1e95b176c455214cdaae7d0294c[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 14:31:41 2016 -0400
+
+    change tags
+
+[33mcommit cc1d9049f669ba840ebc4d5799c774cf2e66066c[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 13:10:31 2016 -0400
+
+    Var
+
+[33mcommit 415859d9e4e6ec9079690e1ae7ac2c2aaa8c80f0[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 13:09:13 2016 -0400
+
+    All users without @
+
+[33mcommit 03331dfefb85bb821b66bfc3814086fd13f31190[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 12:52:19 2016 -0400
+
+    Like works!
+
+[33mcommit 17fb787203b12ecd7a2d27f7921d571eec2f12b4[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 12:40:12 2016 -0400
+
+    Message ID sent as argument
+
+[33mcommit 04c694f04931af7e5ab5bcff3dd61e55080a7a62[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 12:34:06 2016 -0400
+
+    ID is global variable
+
+[33mcommit 11b74d377c60999f1acec32521045bc2f0124438[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 12:30:03 2016 -0400
+
+    Request is global variable
+
+[33mcommit 208ea646af0b29084856746159237583d2478b12[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 12:27:51 2016 -0400
+
+    Like messages
+
+[33mcommit 62e921a12215ef1bc8aafac93754e7f032978d7e[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 12:15:49 2016 -0400
+
+    No self-triggering
+
+[33mcommit d6b4fd79c919e5e0193377fc2e912723572dbfa2[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 12:07:53 2016 -0400
+
+    Switch
+
+[33mcommit ea23133297a4ac5707a07e40e9a5fbeb38ada2c0[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 12:05:48 2016 -0400
+
+    Typo
+
+[33mcommit ccfd61ddda28108cd96986c94e0e6b9e387d50bd[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 29 12:04:26 2016 -0400
+
+    Change how to post
+
+[33mcommit 7fafb311b6c21e4329e4167028e7b81a4d32643a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Oct 27 13:51:25 2016 -0400
+
+    Fuck Marco
+
+[33mcommit 21c768b2574718973365893465602b956a7c85d4[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 11 23:18:53 2016 -0400
+
+    Finishing touches
+
+[33mcommit 272b61c25c2a7bf724b2dff817314c8e6a1b3581[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 11 22:59:29 2016 -0400
+
+    Fix misfire
+
+[33mcommit 5e847d629a0d33b61f19af4a6d50277c0b2bdd8c[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 8 18:30:44 2016 -0400
+
+    Fix commands
+
+[33mcommit 86b39057d22e19d578a5ebeb820028f4b672c744[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Oct 7 11:19:45 2016 -0400
+
+    No more unwelcome thanks
+
+[33mcommit d19d9815e6315ecf01a9a5b7802067dee1a2ebfa[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Oct 7 00:11:50 2016 -0400
+
+    Minor changes
+
+[33mcommit e42f259916e0e49fbdb0b9ffa4c2dd6e2155da09[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Oct 6 18:21:59 2016 -0400
+
+    Update ReadMe
+
+[33mcommit 07c160c21835264026cb0d391b821557b75b7a13[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Oct 6 18:16:06 2016 -0400
+
+    Fix ReadMe
+
+[33mcommit c2c77fd261e0dbe1fe39e34cde60db0e36483b2f[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Oct 6 18:14:41 2016 -0400
+
+    Fix ReadMe
+
+[33mcommit f6dd45cbe040d1753ba4775d25c80ab742020149[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Oct 6 18:11:47 2016 -0400
+
+    readme fix and others
+
+[33mcommit ec3c7e5b7719c03a62d2c9a03ae8fecdc9b2f6c3[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Oct 6 17:53:56 2016 -0400
+
+    Log Triggers
+
+[33mcommit 0d2589290a9576b0a9c11f32f548b728936521fa[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Oct 6 14:06:15 2016 -0400
+
+    Fix
+
+[33mcommit c7e2fedc979bfe79518b890b527dc782fc8b5426[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Oct 6 14:03:06 2016 -0400
+
+    Temp fix for tagging names with squad in it
+
+[33mcommit ccaf51eb4e76f7bb918490206639f9e5a4689360[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Oct 6 13:43:31 2016 -0400
+
+    Added Promise
+
+[33mcommit 52bd3d9a6049c8b2239a1151b15c431599f7f519[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Oct 6 13:41:37 2016 -0400
+
+    Add ReadMe info, fix others
+
+[33mcommit b6486148e0abfe5436524811f3f7c7bd38a8311e[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Oct 6 13:11:28 2016 -0400
+
+    ReadMe Info
+
+[33mcommit 60dd7373d735a611c88f8dc87269224c47233766[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 19:50:35 2016 -0400
+
+    Info and Final Deploy
+
+[33mcommit fd79f6a4f531844dc82c7fd68c207c8ba213931a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 19:47:37 2016 -0400
+
+    Filter All
+
+[33mcommit 3504c7047315d03fc815ec3e0d0bf2c3c03f8444[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 19:45:55 2016 -0400
+
+    Filter
+
+[33mcommit 60aef4132d682d81f437ac27a801fc608fc9e0b2[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 19:34:39 2016 -0400
+
+    Loci Log
+
+[33mcommit 270106e018fe6bb6343f00b91c570e7ff563db57[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 19:20:14 2016 -0400
+
+    All people
+
+[33mcommit 3956e9f00d143b54788dba7e7a1708b7dd10dba3[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 19:05:22 2016 -0400
+
+    Tag error
+
+[33mcommit cc13c67e330b4394ed2d99fa4500b18b1c6636ae[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 18:55:55 2016 -0400
+
+    CAPITAL
+
+[33mcommit 57d2616b36301532babe15f13d0bcee0aecb6461[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 18:52:55 2016 -0400
+
+    Paren
+
+[33mcommit ed9e9c1586881711eafef614e908472020bcac5b[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 18:48:11 2016 -0400
+
+    Tag MealPlan
+
+[33mcommit 3455d7ae49a78f3451350ef156fdd682b361a2c4[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 02:13:41 2016 -0400
+
+    Canned greetings
+
+[33mcommit e521bbe47219464ef57d1ce5869688243c97eea3[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 02:00:25 2016 -0400
+
+    remove brackets
+
+[33mcommit 22e73406ece752f04b14c3515381ff730c251dd5[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 01:58:04 2016 -0400
+
+    Remove brackets
+
+[33mcommit f135c9e44e80885ca50605fed13639ddf38792cd[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 01:55:00 2016 -0400
+
+    MORE BRACKETS
+
+[33mcommit b8b0eddb41fdb9d7b25327c3e3a86eafc22b016a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 01:52:58 2016 -0400
+
+    ANOTHER BRACKET
+
+[33mcommit 40eabba2546da46fd2eecf9008fcddced3eabf65[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 01:50:58 2016 -0400
+
+    breackets
+
+[33mcommit 359a9a7ede53fa54f630bb449582bfb30fb59b05[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 01:47:09 2016 -0400
+
+    fix greetings
+
+[33mcommit 3e703dfd2daa74aad41192715daadf5f104bb081[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 01:38:21 2016 -0400
+
+    Don't say
+
+[33mcommit 7ecb8068c88fac542a5ea21575a3b503395e106e[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 01:21:37 2016 -0400
+
+    Current weather
+
+[33mcommit f8e807a776f1d0577816391bd9cee2d1459916b7[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 01:20:12 2016 -0400
+
+    Not tagging
+
+[33mcommit 2c8ec33f26ce8ef1d74c59f83e120afe1e1ff952[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 01:17:33 2016 -0400
+
+    Goodbyes
+
+[33mcommit cc2fb45ec6d4177e2bbef6bda126da0ccdf84565[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:59:53 2016 -0400
+
+    More time for math
+
+[33mcommit f9c6ba7cf1d8abc73cfa1713ba854e9ded060f64[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:57:34 2016 -0400
+
+    Info Update
+
+[33mcommit a883a44088086e59d46b0305592f9f9dfb171d09[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:55:27 2016 -0400
+
+    Final Deploy
+
+[33mcommit 26916f3748a48e8a43e7409139e9817c9b3ed703[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:52:00 2016 -0400
+
+    Test math
+
+[33mcommit 3199c0628cd904ca0622c2a370bbb4f4548ae74f[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:46:29 2016 -0400
+
+    Fuck David
+
+[33mcommit d1752782d9ac47ee30352e888aab0505cfe6240f[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:37:59 2016 -0400
+
+    Weird brackets
+
+[33mcommit 19f5ceba04618759b6647bcd162bf78d9c976858[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:32:26 2016 -0400
+
+    Add bot tag all users
+
+[33mcommit 2345d049b08427774cca68ebae276d53641a26b4[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:28:15 2016 -0400
+
+    off by 1
+
+[33mcommit ba03d3a02d05832caaa8f90ad4b15ce5e4abd323[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:25:35 2016 -0400
+
+    loci
+
+[33mcommit f83a0e2d2e8f70882ab671f649e869791cbef9f4[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:17:23 2016 -0400
+
+    User IDs
+
+[33mcommit a7de7f274766664c45d8408557342fa85ff6d5a2[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:08:29 2016 -0400
+
+    global
+
+[33mcommit fd9229056e5f016b6de6ab76a6f089f21ad594e2[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:05:56 2016 -0400
+
+    Variables
+
+[33mcommit cd612b2538b2f7050d6873d19c60ba734bfdefba[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Tue Oct 4 00:01:52 2016 -0400
+
+    All
+
+[33mcommit 8948e7c234d87fc94a0d8f4b127cab110611c6be[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 23:58:28 2016 -0400
+
+    A FUCKIN COMMA
+
+[33mcommit 22f99b29c366fe823b9efe5409dfbc3f86849555[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 23:57:07 2016 -0400
+
+    missed log
+
+[33mcommit 9eeff9bcac86759453becf3dac6e01307af7b65f[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 23:54:50 2016 -0400
+
+    List members
+
+[33mcommit 344b5e122125bbadc6de49c1963f390ef5701e05[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 23:22:15 2016 -0400
+
+    GOT MEMBERS!
+
+[33mcommit 34fc451ae2af28a704de98c9292f2d547590d580[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 23:19:52 2016 -0400
+
+    Group info
+
+[33mcommit c359fb4becf36cb328979a3c775fdf1b582c0565[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 22:41:59 2016 -0400
+
+    src
+
+[33mcommit def20660ff48fe393a7918bd84bdfae8689148b9[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 22:37:46 2016 -0400
+
+    dolla dolla bills y'all
+
+[33mcommit 8578085328d73a475b970c4bafea49d3a34fea32[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 22:33:16 2016 -0400
+
+    ?
+
+[33mcommit cc0569389f627a527b0f42c29c02e9f72569d1ef[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 22:30:28 2016 -0400
+
+    please work
+
+[33mcommit 315b388c5a444b5560e4913c62b7bbb500bbb514[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 22:27:58 2016 -0400
+
+    FUCK
+
+[33mcommit e535be8608908ce618b26be68642e8637b66791b[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 22:26:09 2016 -0400
+
+    fix img
+
+[33mcommit f7002dd6e04a0bc9b923fee72f3f900d47b7ba8b[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 22:24:03 2016 -0400
+
+    LOG
+
+[33mcommit 505a84401b90f42694dcd55ed1b82e0133c383ae[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 22:22:34 2016 -0400
+
+    Fix img
+
+[33mcommit 37be8236d550d3abaa0079902413d4048119f212[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 22:20:17 2016 -0400
+
+    fix src
+
+[33mcommit 9a27f0553636bb62ad916210f5979b32b3b759bd[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 22:18:33 2016 -0400
+
+    plots
+
+[33mcommit a2c3d652859be8d4b24e86b4f5190e7d7bad62d1[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 16:32:48 2016 -0400
+
+    Math
+
+[33mcommit 04241cd5c4250ac2b9b3b164248d866de6e65e56[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 12:04:53 2016 -0400
+
+    Console Log
+
+[33mcommit c0398553fb6cd8b77fc4dc781e63346ded624d29[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 12:03:18 2016 -0400
+
+    Results
+
+[33mcommit 5841bf0ed453913c6d1f1f6e511189ef0f09c18b[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 11:58:35 2016 -0400
+
+    Display math
+
+[33mcommit 3307abfb28a97cdfc8abe1aecb272d6827798d25[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 11:54:24 2016 -0400
+
+    No math
+
+[33mcommit 02f9de14d294d5571cc0571135c9a1c16e0d75dd[m
+Merge: d79a205 ebfdbfd
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 11:50:55 2016 -0400
+
+    Merge branch 'master' of https://github.com/RobertRoss3/squadbot1
+
+[33mcommit ebfdbfdd03ac465ed910fca7c65cf114df8db15b[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Oct 3 11:31:27 2016 -0400
+
+    Fix no math
+
+[33mcommit d79a2052eec25471e36817ac9a0ba908803d4cbd[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 23:39:09 2016 -0400
+
+    Stop
+
+[33mcommit f7dcd2878e4cac23462633c478fce57f6b7f1696[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 23:30:59 2016 -0400
+
+    Final Deploy
+
+[33mcommit 3a8944a3775e5cc983a7bfa63cb1cacef5945441[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 23:24:50 2016 -0400
+
+    LOG
+
+[33mcommit a246dc52536a89a14cfe3e7869f6ef38e178fd93[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 23:21:42 2016 -0400
+
+    Info a different way
+
+[33mcommit 3b24882a8e179f9fb15330568f9a5ea387765ea6[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 23:11:26 2016 -0400
+
+    LOG
+
+[33mcommit a36ecc62ac550f1a1700b1ec8c908222499f1ac2[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 23:07:50 2016 -0400
+
+    CAPITAL
+
+[33mcommit 96101ba7a2ee3108900bb6eda456eea986cbd796[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 23:06:22 2016 -0400
+
+    Members!
+
+[33mcommit 6407c6ac2e44573aa6469b71ec798b0ab85c58ac[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 23:05:07 2016 -0400
+
+    members
+
+[33mcommit b9dfeb71f6e56dcd72f273dfaac9e76da00a1d59[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 23:03:12 2016 -0400
+
+    members
+
+[33mcommit 57844f07e813a80199d3d5d09122f0446cd798d5[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 22:57:15 2016 -0400
+
+    GET
+
+[33mcommit 000308d254ffd86329f97a892210f125af9b33d7[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 22:55:00 2016 -0400
+
+    A damn dash
+
+[33mcommit fc00ab04b185a092d012532cd9688faaa8d3ad25[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 22:52:10 2016 -0400
+
+    Get info
+
+[33mcommit 61dd7ef3a1a25628bb909592d1d6a02c91de0c48[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 22:47:06 2016 -0400
+
+    MEMBERS WORKS
+
+[33mcommit 53527aa2ba9143af4ff3a5f0dfe3aa83cfd1063d[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 22:33:35 2016 -0400
+
+    Fix math
+
+[33mcommit 9c5b2abdce5d85eb94e90a59df3c0dca2ce9f04a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 22:31:23 2016 -0400
+
+    Info?
+
+[33mcommit 74824e32a821aea9fc81163aaeaee50da7cc2d4d[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 22:27:53 2016 -0400
+
+    Misspell
+
+[33mcommit a7088ba8165b91ff460779d0947f84fc1a37e0f1[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 22:26:38 2016 -0400
+
+    All problems
+
+[33mcommit cac91db577c966740f06012004915f5d682d1e38[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 22:20:32 2016 -0400
+
+    Final
+
+[33mcommit 314afbc72bb57ba5f29b719256b9538ede3326a7[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 22:15:38 2016 -0400
+
+    Enter math
+
+[33mcommit affa305558090fad24d99ee008cf16ba4d6439d6[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 22:09:23 2016 -0400
+
+    Say it
+
+[33mcommit b801c2d827acaf7ffcc9e2a5d5778fb562ff445e[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 22:00:35 2016 -0400
+
+    no dollars
+
+[33mcommit 302ecf77ee2147b2f39d505df587de336ee65742[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 21:57:24 2016 -0400
+
+    Just say math
+
+[33mcommit 1552da3ff0d0032d51b865ea32270e3a73d8acca[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 21:46:04 2016 -0400
+
+    Pod test
+
+[33mcommit 569da3f699ffb1eb4e7d2837e491187b8b574474[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 21:42:34 2016 -0400
+
+    CONSOLE LOG
+
+[33mcommit 188bbbf986823248bd351a5e48ae5625cede3a2d[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 21:32:20 2016 -0400
+
+    Math
+
+[33mcommit d952fcc01ee0d7d8ea2abb7992eec623506b780e[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 21:23:03 2016 -0400
+
+    RESPOND
+
+[33mcommit 7c57afe6a03d1590c66a12330b9c36744754f1ef[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 21:12:24 2016 -0400
+
+    Damn
+
+[33mcommit d500286225c17fa986bf6aec40e6f2b54d878727[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 21:11:06 2016 -0400
+
+    Already parsed
+
+[33mcommit 1534e262c2f948785204dd8fb767b96354840fc7[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 21:06:22 2016 -0400
+
+    XMLDOM
+
+[33mcommit d93b7e5cdee024d92030493196906c20da67bf39[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 21:03:54 2016 -0400
+
+    DOMParser
+
+[33mcommit 4ca0edd04aa352883557121307f905e480404b34[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 20:59:40 2016 -0400
+
+    XML to  JSON
+
+[33mcommit c60f3b565f18d724537f2975f288c5ef25638667[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 19:03:29 2016 -0400
+
+    xml to JSON
+
+[33mcommit 3dcb6a9240033108276fccabc9b6bfa7ffc2962a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 18:51:54 2016 -0400
+
+    Wolfram
+
+[33mcommit 041f19e79b86ed0383ec5f075476c5b867c9a27c[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 17:02:11 2016 -0400
+
+    Change Group for Dev
+
+[33mcommit 4885f2f6de6e3faebbaf85e5debefcf182bc0372[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 16:58:09 2016 -0400
+
+    test
+
+[33mcommit 88dea569ea5683cb1d3ff291e3b3c02401c9b93a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 00:47:21 2016 -0400
+
+    Final Deploy
+
+[33mcommit 55781dc0684bf7cea8acf8257a296bdebf6010e8[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 00:42:26 2016 -0400
+
+    Wifi Codes
+
+[33mcommit 2b678599c38c56802741b7d0a06c59c83c7d94a0[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Oct 2 00:09:14 2016 -0400
+
+    Fix weather error
+
+[33mcommit 28895e774305932d9790761ee507dd10bc3c61b0[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 23:03:37 2016 -0400
+
+    NO LOGS
+
+[33mcommit 486b1a5145906d79985b6b9e99f076b2bc535d5f[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 23:01:21 2016 -0400
+
+    Todays temp
+
+[33mcommit fbbe779670f2e040ab47975cfa5889e90a10b02b[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 22:58:35 2016 -0400
+
+    LOG
+
+[33mcommit cbae91af10ae86a1f210f6d0269e8ca0fa9a976b[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 22:52:45 2016 -0400
+
+    Weather specific
+
+[33mcommit 77902624697a43b670a6b9353ec1a9e81432150a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 22:35:51 2016 -0400
+
+    Weather typo
+
+[33mcommit 4e78d5f9491d7a511e977dcd6f51a914c43d0137[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 22:33:20 2016 -0400
+
+    Weather specific
+
+[33mcommit 779f752168c65655aacbf5c9c19de4858cad2ef2[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 22:24:23 2016 -0400
+
+    Weather
+
+[33mcommit ce036682e1b4fe88b8c8c98a02c0ba8c580fc8dc[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 21:41:45 2016 -0400
+
+    Fix forecast
+
+[33mcommit e86b9b991c0e70c3da0fb8c7790bf01cb39afbb5[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 21:29:18 2016 -0400
+
+    Forecast fix?
+
+[33mcommit 6c70b3437af623090bf7de627ce4dfc2332571b0[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 21:26:22 2016 -0400
+
+    Object-assign added
+
+[33mcommit fac279ed1b49f5b499dbf861a452303b35a93b21[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 21:22:11 2016 -0400
+
+    Weather
+
+[33mcommit 4a515d296bf9d9d3320dbb58e37d8f6cc6834703[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 21:02:07 2016 -0400
+
+    Session:
+
+[33mcommit f91f16a9e52f185637173efcdc4bd285c2a32b8f[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 20:57:31 2016 -0400
+
+    Quotes
+
+[33mcommit d8d3234f404e7c93206a0793e92377c27bf2aaa0[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 20:55:46 2016 -0400
+
+    Nothing to say
+
+[33mcommit 9a50ef4c589c87a6c9ec97b00afa65f379cb63b3[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 20:50:25 2016 -0400
+
+    Make her talk
+
+[33mcommit 01c9c8b0d9d022f897f6e60539ca453dbf6746f9[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 20:44:10 2016 -0400
+
+    ASK:
+
+[33mcommit 6fe32b2eb08abea6fd8edd87b9d14ef286f73714[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 20:42:09 2016 -0400
+
+    Credentials
+
+[33mcommit 51867ca7109819c671a6ec700a8fe491b1aca2fb[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 20:38:50 2016 -0400
+
+    Cleverbot
+
+[33mcommit a5fea599c936fc4aa4b66557c831b59629fca2be[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 04:03:27 2016 -0400
+
+    Info
+
+[33mcommit 4832cd548f7c1112296c0bb2534848b6a244e116[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 02:39:02 2016 -0400
+
+    Bing
+
+[33mcommit 072609fe3f3fa0de302068effd8c38c331d34c7f[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 01:29:48 2016 -0400
+
+    faces
+
+[33mcommit e13b4ea861c8d52ea83aea48b5b98df8b48cbf3a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 01:14:14 2016 -0400
+
+    A CAPITAL
+
+[33mcommit e7b5f499fceb49fc703ae2b6d757a948122657d5[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 01:12:39 2016 -0400
+
+    Stuff
+
+[33mcommit 4870aac96a81e1c108570be80ce9e6c684459c91[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 00:32:23 2016 -0400
+
+    Go away
+
+[33mcommit 25d4201d7cd6e1cc0804312167cbf3af53453e4d[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 00:29:12 2016 -0400
+
+    Log EVERYTHING
+
+[33mcommit f0aa7c61b0e19765c7b340f835a5ff83d08b8a28[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 00:25:44 2016 -0400
+
+    No body
+
+[33mcommit bb5209264cec66c5621840a8e2210f5791f30dbb[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 00:23:41 2016 -0400
+
+    Fix comma
+
+[33mcommit 32c4fa521da79794bf85ccf9ae1536204eef1c7a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 00:22:39 2016 -0400
+
+    Access #2:
+
+[33mcommit b0f805c90dceb74e53061650a313fb3dd2f2282a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 00:19:50 2016 -0400
+
+    Access
+
+[33mcommit a9fd0dde3507b62a8b0c6799a03ddc865a708a7b[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Oct 1 00:17:18 2016 -0400
+
+    GET:
+
+[33mcommit 8c8bf724737ade0f464fa8e017f0d82c8795c92d[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 19:03:58 2016 -0400
+
+    Web
+
+[33mcommit 684c3b828fe34ae6194e553156941bcb4995a6c2[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 18:51:51 2016 -0400
+
+    Response?
+
+[33mcommit 4c92f30d9ce5f929002724735a369b5376d9c477[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 18:42:30 2016 -0400
+
+    Tag length
+
+[33mcommit b04cbe8958a37e7aec302dceb5eb7d76708207fd[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 18:40:17 2016 -0400
+
+    Fix time
+
+[33mcommit 4896e7d8b9bd24686302ba035b79191e239ad6c7[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 18:28:44 2016 -0400
+
+    Minor fixes
+
+[33mcommit a0684188a2ddba1b4363de9fa34052ff7d752eac[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 01:23:08 2016 -0400
+
+    Syntax
+
+[33mcommit 2bc53b462006738765109b8d106702d247bb4f05[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 01:22:03 2016 -0400
+
+    Monitor
+
+[33mcommit b682e268591f0cb7042f609c25693ff2ec6483b3[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 01:09:39 2016 -0400
+
+    Something
+
+[33mcommit dc0b874b4e1a216db083adaac47d015c172f22fd[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 01:04:27 2016 -0400
+
+    Way to get info
+
+[33mcommit 1b1a1fbe103028f3f8ec6604c5df27986cdd6a92[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 01:01:42 2016 -0400
+
+    Members?
+
+[33mcommit cf78c19f4d89ff254d2b68feca3fee0024e9a132[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 00:31:00 2016 -0400
+
+    Giphy
+
+[33mcommit 6b0b5dff6a7c525d140ebdd9cbb8278a60376922[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 00:16:14 2016 -0400
+
+    Commands
+
+[33mcommit 7f94e5996c11dcd220c0d8c0c537551feff18a37[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 00:11:06 2016 -0400
+
+    Paren
+
+[33mcommit 509ba6c1c9fa253e5d89fe58fd437f8b833a59c1[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 00:09:55 2016 -0400
+
+    Default
+
+[33mcommit df0102d1e88041000513b28e1402538d0f17e178[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Fri Sep 30 00:00:36 2016 -0400
+
+    one word
+
+[33mcommit 11cd44df7eaa7c508bafbad67cd8dcc8ce0f46dc[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 23:53:00 2016 -0400
+
+    No bots
+
+[33mcommit 8baa6c4fe83fe8580edae1d02f46ec00bb456010[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 23:50:30 2016 -0400
+
+    Random
+
+[33mcommit b83d40b777e04706e07034f0a495aad96ea30adc[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 23:47:52 2016 -0400
+
+    rm complications
+
+[33mcommit b0ae8b2e54c83ac95c040c6a480c671a8dfb0587[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 23:44:32 2016 -0400
+
+    Complicated
+
+[33mcommit c0e9f49e217ad2af0d463d9ee1200cd02ebef28a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 23:37:41 2016 -0400
+
+    Bracket
+
+[33mcommit 87a55df39c6c6f269ffa650eec185845e52adefa[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 23:34:53 2016 -0400
+
+    Paren
+
+[33mcommit f531bb659e48dd69dffa6fd096a3e5e7a4ce1d74[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 23:33:16 2016 -0400
+
+    Bracket
+
+[33mcommit 91ad66992fb4c4a56bae058630411afb8fa30b2f[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 23:30:11 2016 -0400
+
+    Talk
+
+[33mcommit a436f9a0f1a6c9834029d17c8f850b533ce5ce24[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 23:01:16 2016 -0400
+
+    Fix recursion
+
+[33mcommit 6478a558bfdc0268a9e20cf93a1c135a48e1f597[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 22:56:07 2016 -0400
+
+    Splelling
+
+[33mcommit 4e7fb992d42c22c47966bee62f517b6d9ea997dd[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 22:54:54 2016 -0400
+
+    ...
+
+[33mcommit 4b79a861b9fc106da2873f7fecbf8856de63bb15[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 22:37:00 2016 -0400
+
+    50th Deploy!
+
+[33mcommit 13bdc4c474ebfd7cf0a9b970edc751728532ee9f[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 22:34:47 2016 -0400
+
+    Shake it up!
+
+[33mcommit 1c4d0bd2e2ceb3deb64d178b92a8f09ba8368dad[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 22:21:12 2016 -0400
+
+    A FUCKIN CAPITAL
+
+[33mcommit 64fb04b1ffc5098a1a605f20b15074002e2ae6f5[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 22:19:36 2016 -0400
+
+    Messages
+
+[33mcommit b21703e92023f12a91b6d1a4b8cc130f46c6fd8f[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 21:58:47 2016 -0400
+
+    Monitoring
+
+[33mcommit 3b7bed9ff38d95f7e80419763d79b61cfaaef990[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 21:48:39 2016 -0400
+
+    A damn bracket
+
+[33mcommit 2d8744598859cd7095b37be87264d7b58b939dc1[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 21:46:18 2016 -0400
+
+    Fix tagging error
+
+[33mcommit 980e3a134e0d78ebff479cfbee913df174a87cd3[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 21:43:06 2016 -0400
+
+    Status Code fix
+
+[33mcommit e0e3d97cc1ef7704a406cc52c6f425513042a751[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 21:38:09 2016 -0400
+
+    Message
+
+[33mcommit c46387c03433b56de089af8f09b0d23bc5dedcbc[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 20:24:16 2016 -0400
+
+    A COMMA
+
+[33mcommit 9836dc143833717cae1f09ddd8ccbe7503165217[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 20:21:05 2016 -0400
+
+    Fix date
+
+[33mcommit d41659e67a037fb60d9f66fd9fc73e6946da2207[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 20:17:58 2016 -0400
+
+    Greet
+
+[33mcommit dd0a14499dc2b59904a7c2cf291fec7110a4567a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 19:54:43 2016 -0400
+
+    Hello
+
+[33mcommit 9735e201b7c8daf052bd0674cf1ba565f6e94701[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 18:31:29 2016 -0400
+
+    MOnitor
+
+[33mcommit 3cb6d739210ec0eaf89b8b0e2a1121e580b7428e[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 18:29:49 2016 -0400
+
+    FIXED
+
+[33mcommit b920d2d150563c127725fbcaf787eaa580f23a11[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 18:26:54 2016 -0400
+
+    Bracket fix
+
+[33mcommit 40d17f35c3863e0e3e2954a1f79ef8290678c6b7[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 18:20:14 2016 -0400
+
+    Monitor
+
+[33mcommit 6481eb3a0c701e8286902eb425648a95808f568b[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 18:04:29 2016 -0400
+
+    changes
+
+[33mcommit ff1899e12c5d08c3c523448fdbe773ec54ba3334[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 17:25:05 2016 -0400
+
+    Recieve
+
+[33mcommit 4c0a369183be88025909cc463615459f9046664d[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Thu Sep 29 17:22:00 2016 -0400
+
+    Recieve?
+
+[33mcommit 9ec1052dab7dfbb2596016e8e8fe718d7600bba7[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Wed Sep 28 19:43:55 2016 -0400
+
+    Fixed
+
+[33mcommit 5cdaf7e5374fd07b777bde6539db041a0e6328e7[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Wed Sep 28 19:41:21 2016 -0400
+
+    Name!
+
+[33mcommit 172a883b58ae39f7fa27250278ff4aebe3cdbded[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Sep 26 20:52:31 2016 -0400
+
+    test json
+
+[33mcommit 7d8d1284a8970df8371931d520bb24075b8cac9d[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Sep 26 20:48:52 2016 -0400
+
+    test json
+
+[33mcommit 4006cc68c55567c60d34425f04f4bcb1f1ae0835[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Sep 26 20:21:24 2016 -0400
+
+    one word
+
+[33mcommit 1bb82ddabcb54bd0e274eb3f4642da093e0d78a2[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Mon Sep 26 18:19:45 2016 -0400
+
+    word fix
+
+[33mcommit 5410c3fa769b0f7dfff9d5372f93291c84c54fad[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Sep 25 23:05:09 2016 -0400
+
+    All
+
+[33mcommit 43c300416eb45a4f03ce10fd93d736fd9600602b[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Sep 25 22:58:15 2016 -0400
+
+    add wtf
+
+[33mcommit 7438b14a3707a2f44424528c08d4991712356184[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Sep 25 22:40:16 2016 -0400
+
+    fixed
+
+[33mcommit dc494bbc86acf5f9b46f11da8f74fc7898e5ed04[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sun Sep 25 21:53:40 2016 -0400
+
+    word
+
+[33mcommit 4a8835ca156e9906e703a65788534a17a015a5a1[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 23:33:23 2016 -0400
+
+    fuck
+
+[33mcommit 2aca0627e61c159119d44bdf953d5386bffe3184[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 23:32:30 2016 -0400
+
+    case-insentive?
+
+[33mcommit c7be0d3a3cda168ab4a53d3b2ea3d1dd9438ac2e[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 23:29:43 2016 -0400
+
+    testing 2
+
+[33mcommit dbbe1aa633b6fbcb139693d6d870bc75b1559338[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 23:13:37 2016 -0400
+
+    fixed
+
+[33mcommit 83f39bef054fd7b4b1a35f21491c890cc6b054d8[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 23:07:35 2016 -0400
+
+    tweak
+
+[33mcommit 1b9f854d6035ead97337a212c74e85a4f3dcb455[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 23:06:14 2016 -0400
+
+    Test to see what parse is
+
+[33mcommit 459f667480691ad40b6fd26eebf2fcd466a1589a[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 22:53:14 2016 -0400
+
+    ok forget that
+
+[33mcommit 952b642d9febace9b25889625d050c558f74d8c2[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 22:51:22 2016 -0400
+
+    disregard case
+
+[33mcommit e4bbfe586f345667400093040f64cd041c629346[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 22:44:53 2016 -0400
+
+    test
+
+[33mcommit bc20e41018aa12d9eb48d3d44f77a3dcd6b7d647[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 16:15:23 2016 -0400
+
+    change recursive response
+
+[33mcommit ac02cb0a27f905a4167deeed9106b41f26465c78[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 16:13:00 2016 -0400
+
+    change response
+
+[33mcommit ea5362e163951d33295cba624f14dbcc5959fcf4[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 16:08:33 2016 -0400
+
+    change regex
+
+[33mcommit a4014f839071a52b7d858fb01e24e3b6860d8560[m
+Author: Robert <robertrross3@gmail.com>
+Date:   Sat Sep 24 15:38:48 2016 -0400
+
+    First commit
