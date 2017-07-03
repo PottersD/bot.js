@@ -18,18 +18,18 @@ console.log("INITIATING APPLICATION...");
 //     API KEYS FOR ALL APIS USED
 var botID = process.env.BOT_ID;
 var groupID = process.env.GROUP_ID;
-var GiphyapiKey = process.env.GIPHY_API_KEY;
+// var GiphyapiKey = process.env.GIPHY_API_KEY;
 var accessToken = process.env.ACCESS_TOKEN;
-var bingKey = process.env.BING_KEY;
-//var cleverUser = process.env.CLEVER_USER;
-//var cleverKey = process.env.CLEVER_KEY;
-//    cleverBot = new cleverbot(cleverUser,cleverKey);
+// var bingKey = process.env.BING_KEY;
+var cleverUser = process.env.CLEVER_USER;
+var cleverKey = process.env.CLEVER_KEY;
+    cleverBot = new cleverbot(cleverUser,cleverKey);
     randomNumber = randomNumber = Math.floor(Math.random()*999);
     session = 'Squadbot1'+randomNumber;
 //    console.log("INITIATING CLEVERBOT SESSION: " + session)
 //    cleverBot.setNick(session);
-var weatherKey = process.env.WEATHER_KEY;
-var mathKey = process.env.MATH_KEY;
+// var weatherKey = process.env.WEATHER_KEY;
+// var mathKey = process.env.MATH_KEY;
     Wolfram = new Client(mathKey);
 
 // Initialize
