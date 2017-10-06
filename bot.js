@@ -23,9 +23,7 @@ var accessToken = process.env.ACCESS_TOKEN;
 var cleverUser = process.env.CLEVER_USER;
 var cleverKey = process.env.CLEVER_KEY;
     cleverBot = new cleverbot(cleverUser,cleverKey);
-    session = 'Squadbot1'+randomNumber;
-    console.log("INITIATING CLEVERBOT SESSION: " + session)
-      cleverBot.setNick(session);
+    
 
  
 
