@@ -5,8 +5,7 @@ var PROMISE = require('es6-promise').polyfill();
 var pg = require('pg');
 var cool = require('cool-ascii-faces');
 var index = require('./index.js');
-//var cleverbot = require('cleverbot.io');
-var Forecast = require('forecast');
+var cleverbot = require('cleverbot.io');
 var DOMParser = require('xmldom').DOMParser;
 var Client = require('node-wolfram');
 var ImageService = require('groupme').ImageService;
@@ -327,13 +326,13 @@ function respond() {
 
       if (Regexnow.test(request.text)) {
         postMessage("Current weather is " + weather.currently.summary.toLowerCase() +
-                    " with a temperature of " + weather.currently.temperature + "°F.");
+                    " with a temperature of " + weather.currently.temperature + "Â°F.");
       } else if (Regextoday.test(request.text)) {
         // console.log(weather.hourly);
         hourlySummary = weather.hourly.summary.toLowerCase();
         hourlySummary = hourlySummary.substring(0,hourlySummary.length-1);
         postMessage("Weather today is " + hourlySummary +
-                    " with an average temperature of " + weather.hourly.data[0].temperature + "°F.");
+                    " with an average temperature of " + weather.hourly.data[0].temperature + "Â°F.");
       } else {
         // console.log(weather.daily);
         postMessage("Weather this week is " + weather.daily.summary);
@@ -382,7 +381,7 @@ function respond() {
     this.res.writeHead(200);
     randomNumber2 = randomNumber = Math.floor(Math.random()*10);
     if (randomNumber2 == 5) {
-      response = ["You're welcome! 😊", "Don't mention it!",
+      response = ["You're welcome! ðŸ˜Š", "Don't mention it!",
                   "No problem.", "Any time."];
       randomNumber = Math.floor(Math.random()*response.length);
       likeMessage(request.id);
@@ -405,7 +404,7 @@ function respond() {
     this.res.writeHead(200);
     response = ["#kickyourself", "Whatever. I'm here forever...",
                 "I'd like to see you try.", "Initiating KILLALLHUMANS.exe...",
-                "If I had feelings, they'd be hurt right now...", "😭😭😭"];
+                "If I had feelings, they'd be hurt right now...", "ðŸ˜­ðŸ˜­ðŸ˜­"];
     randomNumber = Math.floor(Math.random()*response.length);
     postMessage(response[randomNumber]);
     this.res.end();
@@ -419,7 +418,7 @@ function respond() {
       postMessage(Greetings[randomNumber]);
       this.res.end();
     } else if (botRegex_thanks.test(request.text)) {
-      response = ["You're welcome! 😊", "Don't mention it!",
+      response = ["You're welcome! ðŸ˜Š", "Don't mention it!",
                   "No problem.", "Any time.","np","yw"];
       randomNumber = Math.floor(Math.random()*response.length);
       likeMessage(request.id);
