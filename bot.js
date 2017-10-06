@@ -27,7 +27,6 @@ var cleverKey = process.env.CLEVER_KEY;
 
  
 
- Initialize
 
 pg.defaults.ssl = true;
 pg.connect(process.env.DATABASE_URL, function(err, client) {
