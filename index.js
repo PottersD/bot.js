@@ -7,7 +7,6 @@ ImageService = require('groupme').ImageService;
 cool        = require('cool-ascii-faces');
 bot         = require('./bot.js');
 cleverbot = require('cleverbot.io');
-Forecast = require('forecast');
 
 router = new director.http.Router({
   '/' : {
