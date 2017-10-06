@@ -25,13 +25,12 @@ var cleverKey = process.env.CLEVER_KEY;
     cleverBot = new cleverbot(cleverUser,cleverKey);
     randomNumber = randomNumber = Math.floor(Math.random()*999);
     session = 'Squadbot1'+randomNumber;
-//    console.log("INITIATING CLEVERBOT SESSION: " + session)
-//    cleverBot.setNick(session);
-// var weatherKey = process.env.WEATHER_KEY;
-// var mathKey = process.env.MATH_KEY;
+    console.log("INITIATING CLEVERBOT SESSION: " + session)
+      cleverBot.setNick(session);
+
     Wolfram = new Client(mathKey);
 
-// Initialize
+ Initialize
 
 pg.defaults.ssl = true;
 pg.connect(process.env.DATABASE_URL, function(err, client) {
